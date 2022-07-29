@@ -1,0 +1,63 @@
+.container{
+    background-color: #2b2922;
+}
+
+.Justice-image img{
+    width: 1261px;
+}
+.navbar div{
+    display: inline-block;
+}
+.list .list-item{
+    display: inline-block;
+    color: #b8b6b3;
+    margin-right: 70px;
+   
+    
+}
+.hero{
+    height: 555px;
+}
+.hero .hero-heading{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    color: aliceblue;
+    font-size: 70px;
+}
+.hero .hero-content{
+    position: absolute;
+    top: 150px;
+    right: 170px;
+    color: #b8b6b3;
+    font-size: 18px;
+}
+.navbar div img{
+    width: 100px;
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+
+.navbar div .list{
+    position: absolute;
+    right: 220px;
+    top: 20px;
+}
+
+.navbar div .button-small{
+    position: absolute;
+    top: 30px;
+    right: 120px;
+    padding: 10px 20px;
+    background-color: #2b2922;
+    border: 1px solid #9c8b35;
+    color: #9c8b35;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.hero .Justice-image{
+    position: absolute;
+    bottom: 0px;
+}
